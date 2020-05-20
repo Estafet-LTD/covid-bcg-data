@@ -1,5 +1,6 @@
 # covid-bcg-data
-SQL to load COVID and BCG related data
+SQL to load COVID and BCG related data.
+All required fields are listed in the following spreadsheet - https://docs.google.com/spreadsheets/d/1RTfkwp9ZDRxEya4efGCED_3ci6BJPpalv6N5GAtNyRM/edit#gid=0
 
 ## Initial setup
 1. Create all tables by running in posgresql DB ./sql/10_create_all_tales.sql
