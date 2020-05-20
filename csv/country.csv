@@ -1,0 +1,257 @@
+country_name,official_state_name,sovereignty,alpha_2_code,alpha_3_code,internet_cctld,gni_per_capita_usd,year_of_gni_report,income_group_type,bcg_search_non_english_language,covid_19_test_total_per_thousand,covid_19_test_cumulative_total,covid_19_test_unit,covid_19_test_date_reported
+Panama,The Republic of Panamá,UN member state,PA,PAN,.pa,13070,2017,High-income group,Spanish,7.126,30749,units unclear,2020-04-30
+South Africa,The Republic of South Africa,UN member state,ZA,ZAF,.za,12000,2017,Upper-middle-income group,,3.499,207530,units unclear,2020-04-30
+Peru,The Republic of Perú,UN member state,PE,PER,.pe,7890,2017,Upper-middle-income group,Spanish,9.652,318252,units unclear,2020-04-30
+Ukraine,Ukraine,UN member state,UA,UKR,.ua,6410,2017,Upper-middle-income group,Ukrainian,2.558,111859,units unclear,2020-04-30
+Tunisia,The Republic of Tunisia,UN member state,TN,TUN,.tn,3490,2017,Lower-middle-income group,Arabic,1.942,22957,units unclear,2020-04-29
+Ukraine,Ukraine,UN member state,UA,UKR,.ua,2390,2017,Lower-middle-income group,Ukrainian,2.558,111859,units unclear,2020-04-30
+Vietnam,The Socialist Republic of Viet Nam,UN member state,VN,VNM,.vn,2160,2017,Lower-middle-income group,Vietnamese,2.681,261004,units unclear,2020-04-29
+Ghana,The Republic of Ghana,UN member state,GH,GHA,.gh,1880,2017,Lower-middle-income group,,3.653,113497,units unclear,2020-04-28
+Kenya,The Republic of Kenya,UN member state,KE,KEN,.ke,1460,2017,Lower-middle-income group,,0.377,20268,units unclear,2020-04-30
+Rwanda,The Republic of Rwanda,UN member state,RW,RWA,.rw,720,2017,Low-income group,,1.853,24005,units unclear,2020-04-29
+Ireland,Ireland,UN member state,IE,IRL,.ie,55290,2017,High-income group,,30.996,153054,units unclear,2020-04-28
+Belgium,The Kingdom of Belgium,UN member state,BE,BEL,.be,41980,2017,High-income group,"Dutch (Flemish) 60%, French 40%",26.484,306936,units unclear,2020-04-29
+Costa Rica,The Republic of Costa Rica,UN member state,CR,CRI,.cr,12640,2017,Upper-middle-income group,Spanish,1.833,9335,people tested,2020-04-30
+Thailand,The Kingdom of Thailand,UN member state,TH,THA,.th,9400,2017,Upper-middle-income group,Thai (Siamese),1.011,70535,people tested,2020-05-01
+Serbia,The Republic of Serbia,UN member state,RS,SRB,.rs,5500,2017,Upper-middle-income group,Serbian,13.454,91551,people tested,2020-05-01
+Philippines,The Republic of the Philippines,UN member state,PH,PHL,.ph,3660,2017,Lower-middle-income group,,0.888,97349,people tested,2020-04-30
+Indonesia,The Republic of Indonesia,UN member state,ID,IDN,.id,3540,2017,Lower-middle-income group,Bahasa Indonesia,0.28,76538,people tested,2020-05-01
+Morocco,The Kingdom of Morocco,UN member state,MA,MAR,.ma,2860,2017,Lower-middle-income group,Arabic,0.944,34841,people tested,2020-04-30
+Nepal,The Federal Democratic Republic of Nepal,UN member state,NP,NPL,.np,800,2017,Low-income group,Nepali,0.412,12011,people tested,2020-04-30
+Norway,The Kingdom of Norway,UN member state,NO,NOR,.no,76990,2017,High-income group,Norwegian,31.835,172586,people tested,2020-04-30
+Luxembourg,The Grand Duchy of Luxembourg,UN member state,LU,LUX,.lu,73260,2017,High-income group,French,68.122,42643,people tested,2020-04-30
+Qatar,The State of Qatar,UN member state,QA,QAT,.qa,60510,2017,High-income group,Arabic,33.92,97726,people tested,2020-05-01
+Denmark,The Kingdom of Denmark,UN member state,DK,DNK,.dk,55220,2017,High-income group,Danish,33.349,193165,people tested,2020-04-30
+Sweden,The Kingdom of Sweden,UN member state,SE,SWE,.se,52600,2017,High-income group,Swedish,11.803,119200,people tested,2020-04-26
+Netherlands,The Kingdom of the Netherlands,UN member state,NL,NLD,.nl,46180,2017,High-income group,Dutch,12.824,219744,people tested,2020-04-29
+Canada,Canada,UN member state,CA,CAN,.ca,42470,2017,High-income group,,21.367,806449,people tested,2020-05-01
+United States,The United States of America,UN member state,US,USA,.us,58270,2017,High-income group,,18.825,6231182,samples tested,2020-04-30
+Singapore,The Republic of Singapore,UN member state,SG,SGP,.sg,54530,2017,High-income group,,24.6,143919,samples tested,2020-04-27
+Australia,The Commonwealth of Australia,UN member state,AU,AUS,.au,51360,2017,High-income group,,22.104,563641,samples tested,2020-04-30
+Japan,Japan,UN member state,JP,JPN,.jp,48670,2017,High-income group,Japanese,2.014,254703,samples tested,2020-05-01
+Hong Kong,The Hong Kong Special Administrative Region of China[10],China,HK,HKG,.hk,46330,2017,High-income group,,20.674,154989,samples tested,2020-04-27
+Austria,The Republic of Austria,UN member state,AT,AUT,.at,45440,2017,High-income group,German,29.321,264079,samples tested,2020-05-01
+Finland,The Republic of Finland,UN member state,FI,FIN,.fi,44580,2017,High-income group,Finnish,17.614,97593,samples tested,2020-04-30
+Germany,The Federal Republic of Germany,UN member state,DE,DEU,.de,43490,2017,High-income group,German,30.4,2547052,samples tested,2020-04-26
+United Kingdom,The United Kingdom of Great Britain and Northern Ireland,UN member state,GB,GBR,.gb .uk [ab],41530,2017,High-income group,,13.286,901905,samples tested,2020-04-30
+France,The French Republic,UN member state,FR,FRA,.fr,41400,2017,High-income group,French,11.101,724574,samples tested,2020-04-28
+Italy,The Italian Republic,UN member state,IT,ITA,.it,40650,2017,High-income group,Italian,32.735,1979217,samples tested,2020-04-30
+Czechia,The Czech Republic,UN member state,CZ,CZE,.cz,19500,2017,High-income group,Czech,23.311,249634,samples tested,2020-04-30
+Estonia,The Republic of Estonia,UN member state,EE,EST,.ee,18690,2017,High-income group,Estonian,40.532,53767,samples tested,2020-04-30
+Hungary,Hungary,UN member state,HU,HUN,.hu,17830,2017,High-income group,Magyar (Hungarian),7.901,76331,samples tested,2020-05-01
+Portugal,The Portuguese Republic,UN member state,PT,PRT,.pt,21780,2017,High-income group,Portuguese,40.205,409961,samples tested,2020-04-29
+Mexico,The United Mexican States,UN member state,MX,MEX,.mx,12130,2017,Upper-middle-income group,,0.557,71852,samples tested,2020-04-30
+Turkey,The Republic of Turkey,UN member state,TR,TUR,.tr,11650,2017,Upper-middle-income group,Turkish,12.255,1033617,samples tested,2020-04-30
+Romania,Romania,UN member state,RO,ROU,.ro,10830,2017,Upper-middle-income group,Romanian,9.548,183688,samples tested,2020-05-01
+Bulgaria,The Republic of Bulgaria,UN member state,BG,BGR,.bg,9690,2017,Upper-middle-income group,Bulgarian,6.694,46510,samples tested,2020-05-01
+Kazakhstan,The Republic of Kazakhstan,UN member state,KZ,KAZ,.kz,8800,2017,Upper-middle-income group,Russian,13.289,249527,samples tested,2020-04-30
+Colombia,The Republic of Colombia,UN member state,CO,COL,.co,8690,2017,Upper-middle-income group,Spanish,2.057,104657,samples tested,2020-04-30
+Iran,The Islamic Republic of Iran,UN member state,IR,IRN,.ir,8550,2017,Upper-middle-income group,Persian,5.516,463295,samples tested,2020-04-30
+Belarus,The Republic of Belarus,UN member state,BY,BLR,.by,8000,2017,Upper-middle-income group,Russian,17.041,161028,samples tested,2020-04-28
+Ecuador,The Republic of Ecuador,UN member state,EC,ECU,.ec,7860,2017,Upper-middle-income group,Spanish,2.995,52848,samples tested,2020-04-30
+Paraguay,The Republic of Paraguay,UN member state,PY,PRY,.py,6950,2017,Upper-middle-income group,Spanish,1.386,9888,samples tested,2020-04-30
+Cuba,The Republic of Cuba,UN member state,CU,CUB,.cu,8360,2017,Upper-middle-income group,Spanish,4.18,47347,samples tested,2020-04-29
+El Salvador,The Republic of El Salvador,UN member state,SV,SLV,.sv,3560,2017,Lower-middle-income group,Spanish,3.709,24057,samples tested,2020-04-29
+Bolivia,The Plurinational State of Bolivia,UN member state,BO,BOL,.bo,3130,2017,Lower-middle-income group,Spanish,0.561,6551,samples tested,2020-04-30
+Nigeria,The Federal Republic of Nigeria,UN member state,NG,NGA,.ng,2100,2017,Lower-middle-income group,,0.062,12828,samples tested,2020-04-29
+India,The Republic of India,UN member state,IN,IND,.in,1800,2017,Lower-middle-income group,Hindi,0.654,902654,samples tested,2020-05-01
+Pakistan,The Islamic Republic of Pakistan,UN member state,PK,PAK,.pk,1580,2017,Lower-middle-income group,Urdu,0.825,182131,samples tested,2020-05-01
+Bangladesh,The People's Republic of Bangladesh,UN member state,BD,BGD,.bd,1470,2017,Lower-middle-income group,Bangla,0.393,64666,samples tested,2020-04-30
+Senegal,The Republic of Senegal,UN member state,SN,SEN,.sn,1240,2017,Lower-middle-income group,French,0.763,12770,samples tested,2020-05-01
+Myanmar,The Republic of the Union of Myanmar,UN member state,MM,MMR,.mm,1210,2017,Lower-middle-income group,Burmese,0.145,7890,samples tested,2020-04-29
+Zimbabwe,The Republic of Zimbabwe,UN member state,ZW,ZWE,.zw,1170,2017,Lower-middle-income group,,0.514,7642,samples tested,2020-04-29
+Ethiopia,The Federal Democratic Republic of Ethiopia,UN member state,ET,ETH,.et,740,2017,Low-income group,,0.155,17842,samples tested,2020-04-30
+Uganda,The Republic of Uganda,UN member state,UG,UGA,.ug,600,2017,Low-income group,,0.685,31348,samples tested,2020-04-30
+Switzerland,The Swiss Confederation,UN member state,CH,CHE,.ch,82560,2017,High-income group,German,30.594,264781,samples tested,2020-04-29
+Iceland,Iceland,UN member state,IS,ISL,.is,60830,2017,High-income group,,143.865,49094,samples tested,2020-04-30
+Guernsey,The Bailiwick of Guernsey,British Crown,GG,GGY,.gg,,,,,,,,
+Croatia,The Republic of Croatia,UN member state,HR,HRV,.hr,14500,2017,High-income group,Croatian,8.993,36917,units unclear,2020-04-30
+Slovakia,The Slovak Republic,UN member state,SK,SVK,.sk,15750,2017,High-income group,Slovenian,16.681,91072,samples tested,2020-05-01
+Lithuania,The Republic of Lithuania,UN member state,LT,LTU,.lt,15500,2017,High-income group,Lithuanian,48.771,132768,samples tested,2020-05-01
+Latvia,The Republic of Latvia,UN member state,LV,LVA,.lv,15340,2017,High-income group,Latvian,32.404,61120,samples tested,2020-05-01
+Argentina,The Argentine Republic,UN member state,AR,ARG,.ar,14600,2017,High-income group,Spanish,1.298,58685,samples tested,2020-05-01
+Poland,The Republic of Poland,UN member state,PL,POL,.pl,13990,2017,High-income group,Polish,9.37,354628,samples tested,2020-05-01
+Chile,The Republic of Chile,UN member state,CL,CHL,.cl,13700,2017,High-income group,Spanish,9.443,180517,samples tested,2020-04-30
+Uruguay,The Oriental Republic of Uruguay,UN member state,UY,URY,.uy,13400,2017,High-income group,Spanish,5.685,19747,samples tested,2020-05-01
+Oman,The Sultanate of Oman,UN member state,OM,OMN,.om,16500,2017,High-income group,Arabic,,,,
+Saint Kitts and Nevis,Saint Kitts and Nevis,UN member state,KN,KNA,.kn,16300,2017,High-income group,,,,,
+Brazil,The Federative Republic of Brazil,UN member state,BR,BRA,.br,15830,2017,High-income group,Portuguese,,,,
+Trinidad and Tobago,The Republic of Trinidad and Tobago,UN member state,TT,TTO,.tt,15650,2017,High-income group,,,,,
+Saudi Arabia,The Kingdom of Saudi Arabia,UN member state,SA,SAU,.sa,15000,2017,High-income group,Arabic,,,,
+Seychelles,The Republic of Seychelles,UN member state,SC,SYC,.sc,14890,2017,High-income group,,,,,
+Antigua and Barbuda,Antigua and Barbuda,UN member state,AG,ATG,.ag,14700,2017,High-income group,,,,,
+Mauritius,The Republic of Mauritius,UN member state,MU,MUS,.mu,14230,2017,High-income group,,,,,
+Martinique,Martinique,France,MQ,MTQ,.mq,,,,,,,,
+Monaco,The Principality of Monaco,UN member state,MC,MCO,.mc,186710,2008,High-income group,French,,,,
+Liechtenstein,The Principality of Liechtenstein,UN member state,LI,LIE,.li,116300,2009,High-income group,German,,,,
+San Marino,The Republic of San Marino,UN member state,SM,SMR,.sm,52140,2008,High-income group,Italian,,,,
+Andorra,The Principality of Andorra,UN member state,AD,AND,.ad,43270,2013,High-income group,Catalán,,,,
+Maldives,The Republic of Maldives,UN member state,MV,MDV,.mv,11760,2017,Upper-middle-income group,Maldivian Dhivehi,,,,
+Botswana,The Republic of Botswana,UN member state,BW,BWA,.bw,11230,2017,Upper-middle-income group,,,,,
+Libya,The State of Libya,UN member state,LY,LBY,.ly,11180,2017,Upper-middle-income group,Arabic,,,,
+Yemen,The Republic of Yemen,UN member state,YE,YEM,.ye,1250,,Low-income group,Arabic,,,,
+Saint Lucia,Saint Lucia,UN member state,LC,LCA,.lc,9610,2017,Upper-middle-income group,,,,,
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,UN member state,VC,VCT,.vc,9370,2017,Upper-middle-income group,,,,,
+Equatorial Guinea,The Republic of Equatorial Guinea,UN member state,GQ,GNQ,.gq,8960,2017,Upper-middle-income group,Spanish,,,,
+Grenada,Grenada,UN member state,GD,GRD,.gd,8650,2017,Upper-middle-income group,,,,,
+Dominican Republic,The Dominican Republic,UN member state,DO,DOM,.do,8630,2017,Upper-middle-income group,Spanish,,,,
+Dominica,The Commonwealth of Dominica,UN member state,DM,DMA,.dm,8430,2017,Upper-middle-income group,,,,,
+Gabon,The Gabonese Republic,UN member state,GA,GAB,.ga,8290,2017,Upper-middle-income group,French,,,,
+China,The People's Republic of China,UN member state,CN,CHN,.cn,7850,2017,Upper-middle-income group,Standard Chinese (Mandarin/Putonghua),,,,
+Turkmenistan,Turkmenistan,UN member state,TM,TKM,.tm,7820,2017,Upper-middle-income group,Turkmen,,,,
+Belize,Belize,UN member state,BZ,BLZ,.bz,7800,2017,Upper-middle-income group,,,,,
+Samoa,The Independent State of Samoa,UN member state,WS,WSM,.ws,7770,2017,Upper-middle-income group,,,,,
+Namibia,The Republic of Namibia,UN member state,NA,NAM,.na,7600,2017,Upper-middle-income group,,,,,
+Venezuela,The Bolivarian Republic of Venezuela,UN member state,VE,VEN,.ve,7530,2017,Upper-middle-income group,Spanish,,,,
+Tonga,The Kingdom of Tonga,UN member state,TO,TON,.to,7480,2017,Upper-middle-income group,,,,,
+North Macedonia,Republic of North Macedonia[12],UN member state,MK,MKD,.mk,7380,2017,Upper-middle-income group,Macedonian,,,,
+Fiji,The Republic of Fiji,UN member state,FJ,FJI,.fj,6870,2017,Upper-middle-income group,,,,,
+Bosnia and Herzegovina,Bosnia and Herzegovina,UN member state,BA,BIH,.ba,6800,2017,Upper-middle-income group,Bosnian,,,,
+Lebanon,The Lebanese Republic,UN member state,LB,LBN,.lb,6280,2017,Upper-middle-income group,Arabic,,,,
+Azerbaijan,The Republic of Azerbaijan,UN member state,AZ,AZE,.az,6140,2017,Upper-middle-income group,Azerbaijani Turkic,,,,
+Suriname,The Republic of Suriname,UN member state,SR,SUR,.sr,5960,2017,Upper-middle-income group,Dutch,,,,
+Algeria,The People's Democratic Republic of Algeria,UN member state,DZ,DZA,.dz,5730,2017,Upper-middle-income group,Arabic,,,,
+Montenegro,Montenegro,UN member state,ME,MNE,.me,5570,2017,Upper-middle-income group,Serbian/Montenegrin,,,,
+Guyana,The Co-operative Republic of Guyana,UN member state,GY,GUY,.gy,5490,2017,Upper-middle-income group,,,,,
+Jamaica,Jamaica,UN member state,JM,JAM,.jm,5420,2017,Upper-middle-income group,,,,,
+Tuvalu,Tuvalu,UN member state,TV,TUV,.tv,5390,2017,Upper-middle-income group,Tuvaluan,,,,
+Marshall Islands,The Republic of the Marshall Islands,UN member state,MH,MHL,.mh,5380,2017,Upper-middle-income group,Marshallese,,,,
+Jordan,The Hashemite Kingdom of Jordan,UN member state,JO,JOR,.jo,5360,2017,Upper-middle-income group,Arabic,,,,
+Armenia,The Republic of Armenia,UN member state,AM,ARM,.am,5310,2017,Upper-middle-income group,Armenian,,,,
+Guatemala,The Republic of Guatemala,UN member state,GT,GTM,.gt,4890,2017,Upper-middle-income group,Spanish,,,,
+Albania,The Republic of Albania,UN member state,AL,ALB,.al,4500,2017,Upper-middle-income group,Albanian,,,,
+Algeria,The People's Democratic Republic of Algeria,UN member state,DZ,DZA,.dz,4480,2017,Upper-middle-income group,Arabic,,,,
+Palau,The Republic of Palau,UN member state,PW,PLW,.pw,10780,2014,Upper-middle-income group,,,,,
+Nauru,The Republic of Nauru,UN member state,NR,NRU,.nr,7150,2015,Upper-middle-income group,Nauruan,,,,
+Sri Lanka,The Democratic Socialist Republic of Sri Lanka,UN member state,LK,LKA,.lk,3850,2017,Lower-middle-income group,Sinhala,,,,
+Georgia,Georgia,UN member state,GE,GEO,.ge,3780,2017,Lower-middle-income group,Georgian,,,,
+Angola,The Republic of Angola,UN member state,AO,AGO,.ao,3570,2017,Lower-middle-income group,Portuguese,,,,
+Mongolia,The State of Mongolia,UN member state,MN,MNG,.mn,3270,2017,Lower-middle-income group,Mongolian,,,,
+State of Palestine,The State of Palestine,UN observer,PS,PSE,.ps,3180,2017,Lower-middle-income group,,,,,
+Kiribati,The Republic of Kiribati,UN member state,KI,KIR,.ki,3010,2017,Lower-middle-income group,,,,,
+Egypt,The Arab Republic of Egypt,UN member state,EG,EGY,.eg,3010,2017,Lower-middle-income group,Arabic,,,,
+Eswatini,The Kingdom of Eswatini,UN member state,SZ,SWZ,.sz,2950,2017,Lower-middle-income group,,,,,
+Vanuatu,The Republic of Vanuatu,UN member state,VU,VUT,.vu,2920,2017,Lower-middle-income group,Bislama,,,,
+Bhutan,The Kingdom of Bhutan,UN member state,BT,BTN,.bt,2660,2017,Lower-middle-income group,Dzongkha (official),,,,
+Sudan,The Republic of the Sudan,UN member state,SD,SDN,.sd,2380,2017,Lower-middle-income group,Arabic,,,,
+Papua New Guinea,The Independent State of Papua New Guinea,UN member state,PG,PNG,.pg,2340,2017,Lower-middle-income group,Tok Pisin,,,,
+Honduras,The Republic of Honduras,UN member state,HN,HND,.hn,2250,2017,Lower-middle-income group,Spanish,,,,
+Moldova,The Republic of Moldova,UN member state,MD,MDA,.md,2200,2017,Lower-middle-income group,"Moldovan, Russian",,,,
+Nicaragua,The Republic of Nicaragua,UN member state,NI,NIC,.ni,2130,2017,Lower-middle-income group,Spanish,,,,
+Uzbekistan,The Republic of Uzbekistan,UN member state,UZ,UZB,.uz,2000,2017,Lower-middle-income group,Uzbek,,,,
+Solomon Islands,The Solomon Islands,UN member state,SB,SLB,.sb,1920,2017,Lower-middle-income group,Somali,,,,
+Djibouti,The Republic of Djibouti,UN member state,DJ,DJI,.dj,1880,2017,Lower-middle-income group,French,,,,
+Congo,The Republic of the Congo,UN member state,CG,COG,.cg,1430,2017,Lower-middle-income group,French,,,,
+Cameroon,The Republic of Cameroon,UN member state,CM,CMR,.cm,1370,2017,Lower-middle-income group,,,,,
+Zambia,The Republic of Zambia,UN member state,ZM,ZMB,.zm,1290,2017,Lower-middle-income group,,,,,
+Comoros,The Union of the Comoros,UN member state,KM,COM,.km,1280,2017,Lower-middle-income group,French,,,,
+Cambodia,The Kingdom of Cambodia,UN member state,KH,KHM,.kh,1230,2017,Lower-middle-income group,Khmer,,,,
+Lesotho,The Kingdom of Lesotho,UN member state,LS,LSO,.ls,1210,2017,Lower-middle-income group,,,,,
+Kyrgyzstan,The Kyrgyz Republic,UN member state,KG,KGZ,.kg,1130,2017,Lower-middle-income group,Russian,,,,
+Mauritania,The Islamic Republic of Mauritania,UN member state,MR,MRT,.mr,1100,2017,Lower-middle-income group,Hassaniya Arabic,,,,
+Syria,The Syrian Arab Republic,UN member state,SY,SYR,.sy,4840,2007,Lower-middle-income group,Arabic,,,,
+Tajikistan,The Republic of Tajikistan,UN member state,TJ,TJK,.tj,990,2017,Low-income group,Tajik,,,,
+Tanzania,The United Republic of Tanzania,UN member state,TZ,TZA,.tz,910,2017,Low-income group,,,,,
+Benin,The Republic of Benin,UN member state,BJ,BEN,.bj,800,2017,Low-income group,French,,,,
+Guinea,The Republic of Guinea,UN member state,GN,GIN,.gn,790,2017,Low-income group,French,,,,
+Mali,The Republic of Mali,UN member state,ML,MLI,.ml,770,2017,Low-income group,French,,,,
+Haiti,The Republic of Haiti,UN member state,HT,HTI,.ht,760,2017,Low-income group,French,,,,
+Gambia,The Republic of The Gambia,UN member state,GM,GMB,.gm,680,2017,Low-income group,,,,,
+Guinea-Bissau,The Republic of Guinea-Bissau,UN member state,GW,GNB,.gw,660,2017,Low-income group,Portuguese,,,,
+Chad,The Republic of Chad,UN member state,TD,TCD,.td,640,2017,Low-income group,French,,,,
+Liberia,The Republic of Liberia,UN member state,LR,LBR,.lr,620,2017,Low-income group,,,,,
+Togo,The Togolese Republic,UN member state,TG,TGO,.tg,610,2017,Low-income group,French,,,,
+Burkina Faso,Burkina Faso,UN member state,BF,BFA,.bf,590,2017,Low-income group,French,,,,
+Afghanistan,The Islamic Republic of Afghanistan,UN member state,AF,AFG,.af,560,2017,Low-income group,"Dari Persian, Pashtu",,,,
+Sierra Leone,The Republic of Sierra Leone,UN member state,SL,SLE,.sl,510,2017,Low-income group,,,,,
+Democratic Republic of the Congo,The Democratic Republic of the Congo,UN member state,CD,COD,.cd,460,2017,Low-income group,French,,,,
+Eritrea,The State of Eritrea,UN member state,ER,ERI,.er,520,,Low-income group,Arabic,,,,
+Mozambique,The Republic of Mozambique,UN member state,MZ,MOZ,.mz,420,2017,Low-income group,Portuguese,,,,
+Madagascar,The Republic of Madagascar,UN member state,MG,MDG,.mg,400,2017,Low-income group,French,,,,
+Central African Republic,The Central African Republic,UN member state,CF,CAF,.cf,390,2017,Low-income group,French,,,,
+Niger,The Republic of the Niger,UN member state,NE,NER,.ne,360,2017,Low-income group,French,,,,
+Malawi,The Republic of Malawi,UN member state,MW,MWI,.mw,320,2017,Low-income group,Chichewa,,,,
+Burundi,The Republic of Burundi,UN member state,BI,BDI,.bi,280,2017,Low-income group,French,,,,
+Côte d'Ivoire,The Republic of Côte d'Ivoire,UN member state,CI,CIV,.ci,,,,French,,,,
+British Indian Ocean Territory,The British Indian Ocean Territory,United Kingdom,IO,IOT,.io,,,,,,,,
+American Samoa,The Territory of American Samoa,United States,AS,ASM,.as,,,,,,,,
+Saint Martin (French part),The Collectivity of Saint-Martin,France,MF,MAF,.mf,,,,,,,,
+French Guiana,Guyane,France,GF,GUF,.gf,,,,,,,,
+Turks and Caicos Islands,The Turks and Caicos Islands,United Kingdom,TC,TCA,.tc,,,,,,,,
+Cabo Verde,The Republic of Cabo Verde,UN member state,CV,CPV,.cv,,,,,,,,
+Christmas Island,The Territory of Christmas Island,Australia,CX,CXR,.cx,,,,,,,,
+Sint Maarten (Dutch part),Sint Maarten,Netherlands,SX,SXM,.sx,,,,Slovak,,,,
+Aruba,Aruba,Netherlands,AW,ABW,.aw,,,,,,,,
+Curaçao,The Country of Curaçao,Netherlands,CW,CUW,.cw,,,,,,,,
+Holy See,The Holy See,UN observer,VA,VAT,.va,,,,,,,,
+Greenland,Kalaallit Nunaat,Denmark,GL,GRL,.gl,,,,,,,,
+Tokelau,Tokelau,New Zealand,TK,TKL,.tk,,,,,,,,
+Puerto Rico,The Commonwealth of Puerto Rico,United States,PR,PRI,.pr,,,,,,,,
+Timor-Leste,The Democratic Republic of Timor-Leste,UN member state,TL,TLS,.tl,,,,,,,,
+Saint Helena,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,SH,SHN,.sh,,,,,,,,
+Guadeloupe,Guadeloupe,France,GP,GLP,.gp,,,,,,,,
+Faroe Islands,The Faroe Islands,Denmark,FO,FRO,.fo,,,,,,,,
+Svalbard,Svalbard and Jan Mayen,Norway,SJ,SJM,[w],,,,,,,,
+Norfolk Island,The Territory of Norfolk Island,Australia,NF,NFK,.nf,,,,,,,,
+Saint Pierre and Miquelon,The Overseas Collectivity of Saint-Pierre and Miquelon,France,PM,SPM,.pm,,,,,,,,
+Mayotte,The Department of Mayotte,France,YT,MYT,.yt,,,,,,,,
+Lao People's Democratic Republic,The Lao People's Democratic Republic,UN member state,LA,LAO,.la,,,,,,,,
+Réunion,Réunion,France,RE,REU,.re,,,,,,,,
+Gibraltar,Gibraltar,United Kingdom,GI,GIB,.gi,,,,,,,,
+Micronesia (Federated States of),The Federated States of Micronesia,UN member state,FM,FSM,.fm,,,,,,,,
+Macao,Macao Special Administrative Region of China[11],China,MO,MAC,.mo,,,,,,,,
+Virgin Islands (British),The Virgin Islands,United Kingdom,VG,VGB,.vg,,,,,,,,
+Cook Islands,The Cook Islands,New Zealand,CK,COK,.ck,,,,,,,,
+South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,United Kingdom,GS,SGS,.gs,,,,,,,,
+South Sudan,The Republic of South Sudan,UN member state,SS,SSD,.ss,390,,Low-income group,,,,,
+Somalia,The Federal Republic of Somalia,UN member state,SO,SOM,.so,150,,Low-income group,,,,,
+North Korea,The Democratic People's Republic of Korea,UN member state,KP,PRK,.kp,2155,,Low-income group,Korean,,,,
+Saba,,,,,,,,,,,,,
+Sint Eustatius,,,,,,,,,,,,,
+Tristan da Cunha,,,,,,,,,,,,,
+Ascension Island,,,,,,,,,,,,,
+Jan Mayen,,,,,,,,,,,,,
+French Southern Territories,The French Southern and Antarctic Lands,France,TF,ATF,.tf,,,,,,,,
+Iraq,The Republic of Iraq,UN member state,IQ,IRQ,.iq,,,,Arabic,,,,
+Åland Islands,Åland,Finland,AX,ALA,.ax,,,,,,,,
+The Bahamas,The Commonwealth of The Bahamas,UN member state,BS,BHS,.bs,34300,2017,High-income group,,,,,
+United Arab Emirates,The United Arab Emirates,UN member state,AE,ARE,.ae,30700,2017,High-income group,Arabic,,,,
+Kuwait,The State of Kuwait,UN member state,KW,KWT,.kw,30000,2017,High-income group,Arabic,,,,
+Brunei,"The Nation of Brunei, the Abode of Peace",UN member state,BN,BRN,.bn,28500,2017,High-income group,Malay,,,,
+Malta,The Republic of Malta,UN member state,MT,MLT,.mt,27440,2017,High-income group,,,,,
+Cyprus,The Republic of Cyprus,UN member state,CY,CYP,.cy,25720,2017,High-income group,Greek,,,,
+Bahrain,The Kingdom of Bahrain,UN member state,BH,BHR,.bh,22150,2017,High-income group,Arabic,78.798,134082,units unclear,2020-05-01
+New Zealand,New Zealand,UN member state,NZ,NZL,.nz,39970,2017,High-income group,,29.011,139898,samples tested,2020-04-30
+South Korea,The Republic of Korea,UN member state,KR,KOR,.kr,38450,2017,High-income group,Korean,12.153,623069,samples tested,2020-05-01
+Israel,The State of Israel,UN member state,IL,ISR,.il,36770,2017,High-income group,Hebrew,40.998,354857,samples tested,2020-04-28
+Spain,The Kingdom of Spain,UN member state,ES,ESP,.es,29550,2017,High-income group,Spanish,22.148,1035522,samples tested,2020-04-23
+Slovenia,The Republic of Slovenia,UN member state,SI,SVN,.si,23600,2017,High-income group,,26.119,54300,samples tested,2020-04-30
+Greece,The Hellenic Republic,UN member state,GR,GRC,.gr,21420,2017,High-income group,Greek,7.212,75170,samples tested,2020-04-30
+Barbados,Barbados,UN member state,BB,BRB,.bb,20600,2017,High-income group,,,,,
+Jersey,The Bailiwick of Jersey,British Crown,JE,JEY,.je,,,,,,,,
+Bonaire,"Bonaire, Sint Eustatius and Saba",Netherlands,BQ,BES,.bq .nl [c],,,,,,,,
+Anguilla,Anguilla,United Kingdom,AI,AIA,.ai,,,,,,,,
+Bermuda,Bermuda,United Kingdom,BM,BMU,.bm,,,,,,,,
+Niue,Niue,New Zealand,NU,NIU,.nu,,,,,,,,
+Montserrat,Montserrat,United Kingdom,MS,MSR,.ms,,,,,,,,
+Antarctica,All land and ice shelves south of the 60th parallel south,Antarctic Treaty,AQ,ATA,.aq,,,,,,,,
+Virgin Islands (U.S.),The Virgin Islands of the United States,United States,VI,VIR,.vi,,,,,,,,
+Wallis and Futuna,The Territory of the Wallis and Futuna Islands,France,WF,WLF,.wf,,,,,,,,
+Northern Mariana Islands,The Commonwealth of the Northern Mariana Islands,United States,MP,MNP,.mp,,,,,,,,
+Saint Barthélemy,The Collectivity of Saint-Barthélemy,France,BL,BLM,.bl,,,,,,,,
+Guam,The Territory of Guam,United States,GU,GUM,.gu,,,,,,,,
+Pitcairn,"The Pitcairn, Henderson, Ducie and Oeno Islands",United Kingdom,PN,PCN,.pn,,,,,,,,
+Sao Tome and Principe,The Democratic Republic of São Tomé and Príncipe,UN member state,ST,STP,.st,,,,,,,,
+Heard Island and McDonald Islands,The Territory of Heard Island and McDonald Islands,Australia,HM,HMD,.hm,,,,,,,,
+Cayman Islands,The Cayman Islands,United Kingdom,KY,CYM,.ky,,,,,,,,
+United States Minor Outlying Islands,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",United States,UM,UMI,[ad],,,,,,,,
+Falkland Islands (the) [Malvinas],The Falkland Islands,United Kingdom,FK,FLK,.fk,,,,,,,,
+Isle of Man,The Isle of Man,British Crown,IM,IMN,.im,,,,,,,,
+New Caledonia,New Caledonia,France,NC,NCL,.nc,,,,,,,,
+French Polynesia,French Polynesia,France,PF,PYF,.pf,,,,,,,,
+Cocos (Keeling) Islands,The Territory of Cocos (Keeling) Islands,Australia,CC,CCK,.cc,,,,,,,,
+Bouvet Island,Bouvet Island,Norway,BV,BVT,[d],,,,,,,,
+Western Sahara,The Sahrawi Arab Democratic Republic,disputed [ai],EH,ESH,[aj],,,,,,,,
+Taiwan,The Republic of China,disputed [z],TW,TWN,.tw,35544,,High-income group,Chinese (Mandarin),2.659,63340,samples tested,2020-04-30
+Malaysia,Malaysia,UN member state,MY,MYS,.my,12900,2017,Upper-middle-income group,Bahasa Melayu,5.215,168784,samples tested,2020-05-01
+Russia,The Russian Federation,UN member state,RU,RUS,.ru,12220,2017,Upper-middle-income group,Russian,25.517,3723807,samples tested,2020-05-01
