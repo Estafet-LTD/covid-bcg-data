@@ -1,0 +1,193 @@
+Country,Population(millions),Heart disease Disability(DALYS lost per 1000 population),Heart disease Mortality(number of deaths),Stroke Disability(DALYS lost per 1000 population),Stroke Mortality(number of deaths),Rheumatic heart disease(number of deaths),Percentage of smokers men,Percentage of smokers women,Diabetes(percentage),Number of publications,Legal status of smoking,Country
+Afghanistan,22930,36,33157,13,11532,1938,,,4.7,,unknown,Afghanistan
+Albania,3141,13,3989,13,4169,42,46.2,22.8,4.5,,not regulated,Albania
+Algeria,31266,7,14948,8,16223,756,40.2,11.5,2.6,1,unknown,Algeria
+Andorra,69,3,67,3,52,3,49.6,35.9,8.8,,banned,Andorra
+Angola,13184,13,7130,15,7640,615,,,0.9,,not regulated,Angola
+Antigua and Barbuda,73,6,52,13,92,0,,,7.3,,unknown,Antigua and Barbuda
+Argentina,37981,6,34292,6,22668,234,32.0,18.9,6.1,110,not regulated,Argentina
+Armenia,3072,20,8515,10,4212,151,67.4,4.1,4.7,1,not regulated,Armenia
+Australia,19544,5,25474,3,11730,243,30.7,23.1,6.8,710,restricted,Australia
+Austria,8111,6,15418,4,7559,185,37.4,26.3,3.8,320,restricted,Austria
+Azerbaijan,8297,28,22302,9,6540,184,32.0,1.7,6.8,1,banned,Azerbaijan
+Bahamas,310,5,154,6,155,1,0.0,16.0,6.2,,unknown,Bahamas
+Bahrain,709,8,283,3,84,6,29.5,0.0,9.1,4,unknown,Bahrain
+Bangladesh,143809,18,130006,9,64515,10253,63.0,34.5,4.6,3,restricted,Bangladesh
+Barbados,269,6,286,7,270,2,19.8,3.0,5.8,1,banned,Barbados
+Belarus,9940,28,59719,14,22892,550,63.6,22.0,9.9,3,restricted,Belarus
+Belgium,10296,5,14985,4,9234,68,33.2,22.9,4.0,345,restricted,Belgium
+Belize,251,8,153,7,111,1,,,4.2,,restricted,Belize
+Benin,6558,10,3017,12,3279,236,0.0,5.4,3.3,1,unknown,Benin
+Bhutan,2190,20,2672,10,1370,195,,,3.5,,unknown,Bhutan
+Bolivia,8645,6,3948,7,3138,70,36.7,19.2,4.9,,restricted,Bolivia
+Bosnia and Herzegovina,4126,10,5590,13,6508,21,54.6,31.5,3.8,,banned,Bosnia and Herzegovina
+Botswana,1770,8,697,8,670,15,,,3.6,,restricted,Botswana
+Brazil,176257,9,139601,11,129172,3055,29.4,18.4,4.3,307,banned,Brazil
+Brunei Darussalam,350,5,92,6,90,7,,,9.4,,banned,Brunei Darussalam
+Bulgaria,7965,14,26243,13,20882,232,47.3,28.2,7.7,18,banned,Bulgaria
+Burkina Faso,12624,11,5877,13,6604,466,25.6,13.2,2.7,2,not regulated,Burkina Faso
+Burundi,6602,10,3084,12,3492,82,,,1.0,,not regulated,Burundi
+Cambodia,13810,13,7635,11,5963,614,0.0,6.5,1.9,,restricted,Cambodia
+Cameroon,15729,10,9443,12,10198,621,20.7,2.4,1.0,4,restricted,Cameroon
+Canada,31271,5,43246,3,15621,422,30.0,26.6,8.8,1237,restricted,Canada
+Cape Verde,454,6,202,9,266,4,,,3.4,,restricted,Cape Verde
+Central African Rep.,3819,10,2513,12,2727,51,,,1.0,,not regulated,Central African Rep.
+Chad,8348,10,4385,12,4747,300,19.7,3.1,2.8,,not regulated,Chad
+Chile,15613,4,9075,5,8142,315,44.1,36.6,5.2,53,restricted,Chile
+China,1294867,4,702925,12,1652885,97245,58.9,3.6,2.4,472,restricted,China
+Colombia,43526,8,31289,6,17745,380,,,3.6,11,unknown,Colombia
+Comoros,747,8,282,10,310,23,30.5,18.4,1.4,,unknown,Comoros
+Congo,3633,9,1577,10,1718,39,20.8,3.9,1.1,2,restricted,Congo
+"Congo, Dem. Rep.",51201,11,24217,13,26439,1930,,,1.4,,unknown,"Congo, Dem. Rep."
+Cook Islands,18,10,11,12,11,0,,,6.3,,not regulated,Cook Islands
+Costa Rica,4094,6,2937,3,1194,45,24.3,10.0,3.3,2,restricted,Costa Rica
+Côte d’Ivoire,16365,11,9257,12,9530,233,21.0,4.0,3.6,,restricted,Côte d’Ivoire
+Croatia,4439,10,11653,11,8653,152,41.4,27.4,4.4,41,banned,Croatia
+Cuba,11271,8,16275,5,7684,196,48.8,28.5,6.0,15,restricted,Cuba
+Cyprus,796,7,1358,3,795,1,,,9.2,,restricted,Cyprus
+Czech Republic,10246,11,25899,7,15663,286,42.6,26.2,4.3,78,banned,Czech Republic
+Denmark,5351,5,10013,4,4871,17,40.3,36.9,3.8,308,restricted,Denmark
+Djibouti,693,21,727,7,248,27,,,2.5,,unknown,Djibouti
+Dominica,78,3,30,4,30,0,,,6.2,,unknown,Dominica
+Dominican Republic,8616,11,7271,9,4833,54,22.1,16.2,5.2,,restricted,Dominican Republic
+Ecuador,12810,5,5826,5,4374,117,31.9,7.4,4.8,3,banned,Ecuador
+Egypt,70507,21,103829,8,35054,3398,47.9,1.8,7.2,20,restricted,Egypt
+El Salvador,6415,10,5328,4,1684,39,,,3.0,,unknown,El Salvador
+Equatorial Guinea,481,11,313,12,333,18,,,3.8,,unknown,Equatorial Guinea
+Eritrea,3991,9,1326,10,1474,42,,,2.8,4,not regulated,Eritrea
+Estonia,1338,16,6235,9,2964,65,57.1,28.8,4.4,7,banned,Estonia
+Ethiopia,68961,10,32477,11,35329,2482,9.7,0.8,2.8,4,not regulated,Ethiopia
+Fiji,831,18,783,17,685,21,47.3,14.0,8.3,1,not regulated,Fiji
+Finland,5197,7,12488,4,4875,77,31.6,22.3,3.9,331,banned,Finland
+France,59850,3,46132,3,37750,1136,42.6,33.9,3.9,1407,restricted,France
+Gabon,1306,11,1001,11,951,57,,,1.2,,not regulated,Gabon
+Gambia,1388,10,789,11,837,48,43.4,6.2,3.3,4,restricted,Gambia
+Georgia,5177,23,26035,17,15680,59,61.4,6.3,5.3,159,not regulated,Georgia
+Germany,82414,6,172717,4,79326,2241,39.0,30.9,4.1,2276,restricted,Germany
+Ghana,20471,9,10471,11,11337,705,14.2,1.9,3.3,1,restricted,Ghana
+Greece,10970,7,16825,6,22694,10,53.5,33.6,10.3,245,restricted,Greece
+Grenada,80,9,85,13,91,1,,,7.3,,unknown,Grenada
+Guatemala,12036,4,2796,4,2232,14,24.5,3.7,2.7,,restricted,Guatemala
+Guinea,8359,11,4137,12,4415,289,,,0.9,3,banned,Guinea
+Guinea-Bissau,1449,11,783,13,844,52,,,3.1,,not regulated,Guinea-Bissau
+Guyana,764,12,791,18,880,8,,,4.2,,unknown,Guyana
+Haiti,8218,5,2469,16,6764,62,25.2,5.4,4.1,,unknown,Haiti
+Honduras,6781,10,4544,8,2786,79,,,2.7,,unknown,Honduras
+Hungary,9923,13,29502,8,17148,354,47.2,27.7,4.4,103,banned,Hungary
+Iceland,287,5,416,3,189,3,26.5,27.1,3.2,9,banned,Iceland
+India,1049549,20,1531534,10,771067,103913,34.6,3.4,5.5,294,banned,India
+Indonesia,217131,14,220372,8,123684,11660,59.8,5.3,6.7,4,restricted,Indonesia
+"Iran, Isl. Rep.",68070,17,81983,8,31768,1138,33.4,3.5,6.0,,banned,"Iran, Isl. Rep."
+Iraq,24510,19,22036,8,8291,695,,,6.1,1,unknown,Iraq
+Ireland,3911,8,6527,4,2650,51,33.8,26.5,3.2,142,restricted,Ireland
+Israel,6304,4,5705,3,2233,170,35.8,19.7,6.7,634,banned,Israel
+Italy,57482,4,92928,4,69075,1790,37.9,29.7,9.2,1976,banned,Italy
+Jamaica,2627,5,1877,11,3559,59,56.1,21.2,5.4,23,not regulated,Jamaica
+Japan,127478,3,90196,5,134952,2585,52.5,12.4,6.7,3769,restricted,Japan
+Jordan,5329,13,3788,6,1428,127,66.8,5.3,8.1,6,banned,Jordan
+Kazakhstan,15469,28,51948,17,26874,919,57.5,6.4,4.4,3,restricted,Kazakhstan
+Kenya,31540,9,13661,10,14843,360,66.3,27.3,1.4,,not regulated,Kenya
+Kiribati,87,1,7,18,81,0,,,8.6,,not regulated,Kiribati
+"Korea, Dem. People’s Rep. of",22541,13,26953,8,14337,1317,,,2.5,,unknown,"Korea, Dem. People’s Rep. of"
+"Korea, Republic of",47430,3,15811,9,46151,202,69.5,5.1,5.6,19,restricted,"Korea, Republic of"
+Kuwait,2443,10,940,3,213,7,35.7,2.7,9.8,17,restricted,Kuwait
+Kyrgyzstan,5067,22,10850,22,8366,351,64.1,41.4,3.6,,not regulated,Kyrgyzstan
+Lao People’s Dem. Rep.,5529,19,5539,12,3620,484,68.9,16.1,1.8,,restricted,Lao People’s Dem. Rep.
+Latvia,2329,17,9928,12,7278,109,64.5,29.2,4.5,1,restricted,Latvia
+Lebanon,3596,17,5471,7,2072,119,60.7,46.9,7.0,65,restricted,Lebanon
+Lesotho,1800,9,1200,11,1299,24,,,3.1,,unknown,Lesotho
+Liberia,3239,12,1442,14,1559,130,,,3.1,,unknown,Liberia
+Libyan Arab Jamahiriya,5445,15,5309,6,1762,130,,,3.1,,banned,Libyan Arab Jamahiriya
+Lithuania,3465,16,14662,7,5089,186,46.4,15.9,4.2,5,restricted,Lithuania
+Luxembourg,447,4,455,5,390,0,41.4,30.2,3.6,3,restricted,Luxembourg
+"Macedonia, Former Yugos. Rep. of",2046,9,2544,13,3772,41,,,3.8,5,banned,"Macedonia, Former Yugos. Rep. of"
+Madagascar,16916,10,8327,11,9020,609,,,1.4,2,not regulated,Madagascar
+Malawi,11871,10,6773,11,7249,106,31.0,7.4,1.1,1,not regulated,Malawi
+Malaysia,23965,8,13445,7,10169,464,52.4,3.0,7.6,16,banned,Malaysia
+Maldives,309,17,282,10,152,16,,,5.0,,banned,Maldives
+Mali,12623,11,5406,13,5946,478,26.9,4.7,2.9,,restricted,Mali
+Malta,393,9,865,4,338,6,,,13.9,5,not regulated,Malta
+Marshall Islands,52,20,57,20,54,2,,,8.6,9,banned,Marshall Islands
+Mauritania,2807,11,1640,13,1756,111,25.0,4.3,2.8,,not regulated,Mauritania
+Mauritius,1210,18,2034,11,1235,5,54.7,3.1,14.6,2,restricted,Mauritius
+Mexico,101965,6,51454,4,26478,1093,36.5,14.3,3.9,201,restricted,Mexico
+"Micronesia, Federated States of",108,12,64,14,69,2,,,8.6,,not regulated,"Micronesia, Federated States of"
+"Moldova, Republic of",4270,23,18559,15,7848,264,,,5.9,,restricted,"Moldova, Republic of"
+Monaco,34,3,27,3,22,1,,,8.8,7,unknown,Monaco
+Mongolia,2559,8,1153,25,2515,145,46.2,7.3,2.5,1,restricted,Mongolia
+Morocco,30072,14,29934,5,10607,808,32.6,0.6,2.6,7,restricted,Morocco
+Mozambique,18537,8,7969,10,8896,246,,,1.6,1,unknown,Mozambique
+Myanmar,48852,17,58478,11,33406,3746,55.5,12.2,2.0,,unknown,Myanmar
+Namibia,1961,8,996,10,1108,25,33.8,16.1,3.1,,not regulated,Namibia
+Nauru,13,22,17,10,7,0,56.8,64.7,27.8,,banned,Nauru
+Nepal,24609,18,23314,10,11961,1648,61.5,34.6,3.9,3,banned,Nepal
+Netherlands,16067,5,19045,4,12459,16,38.3,32.8,3.5,917,restricted,Netherlands
+New Zealand,3846,7,6141,4,2699,139,28.1,28.7,6.7,131,restricted,New Zealand
+Nicaragua,5335,8,2680,7,1768,70,,,2.9,,restricted,Nicaragua
+Niger,11544,11,4423,13,4831,439,,,2.5,,unknown,Niger
+Nigeria,120911,11,64778,12,69932,4795,16.3,3.6,3.4,18,banned,Nigeria
+Niue,2,10,1,12,1,0,36.8,14.0,6.3,,restricted,Niue
+Norway,4514,5,8886,3,4817,103,40.3,39.0,3.9,185,restricted,Norway
+Oman,2768,17,1765,4,375,12,23.6,2.9,9.9,19,unknown,Oman
+Pakistan,149911,18,154338,9,78512,11604,30.3,3.8,7.7,12,banned,Pakistan
+Palau,20,14,17,14,16,0,50.9,22.6,8.6,,banned,Palau
+Panama,3064,5,1628,5,1489,30,35.1,17.7,3.5,1,unknown,Panama
+Papua New Guinea,5586,18,3994,10,1960,351,48.9,0.0,6.5,3,banned,Papua New Guinea
+Paraguay,5740,7,2606,10,2881,36,45.8,15.6,3.7,1,restricted,Paraguay
+Peru,26767,4,10615,4,8084,157,,,5.2,3,restricted,Peru
+Philippines,78580,10,45378,7,24368,2812,59.6,13.8,7.1,2,restricted,Philippines
+Poland,38622,10,77151,7,43032,1277,51.5,27.9,4.1,187,banned,Poland
+Portugal,10049,5,10927,9,20069,189,44.2,19.7,8.6,51,restricted,Portugal
+Qatar,601,9,238,4,75,4,,,10.1,7,unknown,Qatar
+Romania,22387,13,60718,13,52272,566,33.3,10.8,6.6,16,unknown,Romania
+Russian Federation,144082,27,674881,19,517424,8126,58.1,15.8,4.2,13,banned,Russian Federation
+Rwanda,8272,10,3493,12,3811,101,,,0.9,,not regulated,Rwanda
+Saint Kitts and Nevis,42,10,46,19,84,0,,,7.3,,unknown,Saint Kitts and Nevis
+Saint Lucia,148,6,71,11,120,4,34.6,5.0,6.2,,restricted,Saint Lucia
+Saint Vincent and Grenadines,119,9,103,10,88,2,34.6,5.6,7.3,,unknown,Saint Vincent and Grenadines
+Samoa,176,14,117,14,128,3,67.4,28.8,6.1,,banned,Samoa
+San Marino,27,5,40,3,26,1,,,9.2,,unknown,San Marino
+Sao Tome and Principe,157,7,81,10,107,2,,,0.9,,not regulated,Sao Tome and Principe
+Saudi Arabia,23520,17,16438,4,3818,126,29.1,1.2,9.3,51,banned,Saudi Arabia
+Senegal,9855,10,3838,12,4154,355,21.2,1.5,3.4,3,not regulated,Senegal
+Serbia & Montenegro,10535,12,23610,12,21756,238,55.5,51.8,4.2,21,not regulated,Serbia & Montenegro
+Seychelles,80,7,54,2,15,1,32.5,15.0,14.6,,unknown,Seychelles
+Sierra Leone,4764,13,2813,15,3035,216,,,3.3,,unknown,Sierra Leone
+Singapore,4183,7,3946,3,1716,39,23.7,3.2,11.4,76,restricted,Singapore
+Slovakia,5398,12,14609,5,4445,131,42.3,28.0,3.9,25,banned,Slovakia
+Slovenia,1986,6,2803,6,2003,87,32.7,20.8,4.3,34,restricted,Slovenia
+Solomon Islands,463,12,213,13,220,6,,,6.4,,restricted,Solomon Islands
+Somalia,9480,19,6818,13,4426,333,,,2.7,,unknown,Somalia
+South Africa,44759,9,27013,11,30306,792,43.4,13.9,3.4,77,restricted,South Africa
+Spain,40977,4,45018,3,34880,1738,43.9,31.2,8.7,689,restricted,Spain
+Sri Lanka,18910,8,16297,7,13348,175,38.7,3.1,5.4,6,banned,Sri Lanka
+Sudan,32878,15,28458,10,16532,800,27.7,2.7,2.9,,restricted,Sudan
+Suriname,432,13,397,12,362,4,,,3.8,,not regulated,Suriname
+Swaziland,1069,8,529,8,499,13,19.6,4.9,2.9,,not regulated,Swaziland
+Sweden,8867,5,20122,3,9984,143,21.3,24.9,4.3,654,banned,Sweden
+Switzerland,7171,4,10746,2,4508,112,37.6,28.3,3.9,440,restricted,Switzerland
+Syrian Arab Republic,17381,13,11168,11,7675,1715,44.0,16.7,8.2,,banned,Syrian Arab Republic
+Tajikistan,6195,23,11447,7,3048,419,,,3.1,,not regulated,Tajikistan
+"Tanzania, United Republic of",36276,10,14720,12,16115,439,48.9,7.2,1.3,,not regulated,"Tanzania, United Republic of"
+Thailand,62193,6,28425,5,24810,456,32.2,2.7,3.8,59,restricted,Thailand
+Timor-Leste,739,18,635,10,315,49,,,,,unknown,Timor-Leste
+Togo,4801,10,2474,12,2675,175,,,3.1,2,not regulated,Togo
+Tonga,103,10,70,12,79,2,62.1,14.2,6.3,,banned,Tonga
+Trinidad and Tobago,1298,15,2156,10,1253,23,,,7.3,5,not regulated,Trinidad and Tobago
+Tunisia,9728,15,12956,6,4798,298,52.9,2.5,2.9,8,restricted,Tunisia
+Turkey,70318,16,102552,13,62782,1584,51.1,18.5,7.3,578,banned,Turkey
+Turkmenistan,4794,34,11671,7,2182,221,,,3.2,,banned,Turkmenistan
+Tuvalu,10,18,11,20,11,0,,,6.3,,banned,Tuvalu
+Uganda,25004,10,10163,11,11043,288,33.4,7.1,1.1,2,restricted,Uganda
+Ukraine,48902,28,335610,13,126117,3085,55.5,14.7,4.4,19,restricted,Ukraine
+United Arab Emirates,2937,17,2235,4,363,16,27.6,4.0,20.5,8,restricted,United Arab Emirates
+United Kingdom,59068,7,120530,4,59322,1712,34.6,34.4,3.9,2667,not regulated,United Kingdom
+United States of America,291038,8,514450,4,163768,3479,27.8,22.3,8.8,12502,restricted,United States of America
+Uruguay,3391,6,3980,7,3773,32,39.4,30.8,6.8,2,restricted,Uruguay
+Uzbekistan,25705,24,55693,12,23436,1558,28.7,1.4,3.2,1,not regulated,Uzbekistan
+Vanuatu,207,13,120,13,122,3,47.9,4.8,6.9,,restricted,Vanuatu
+Venezuela,25226,10,17967,5,8720,208,51.9,20.5,4.3,,unknown,Venezuela
+Viet Nam,80278,10,66179,8,58308,4210,53.2,3.0,1.8,,banned,Viet Nam
+Yemen,19315,22,16217,9,6464,743,60.0,29.0,4.4,,unknown,Yemen
+Zambia,10698,8,4153,9,4604,135,21.4,8.8,1.6,,restricted,Zambia
+Zimbabwe,12835,8,5752,10,6264,158,32.2,4.6,2.0,2,unknown,Zimbabwe
