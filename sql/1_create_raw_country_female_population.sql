@@ -1,4 +1,4 @@
-DROP TABLE public.raw_country_female_population_percent;
+-- DROP TABLE IF EXISTS public.raw_country_female_population_percent;
 
 CREATE TABLE public.raw_country_female_population_percent
 (

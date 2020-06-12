@@ -252,3 +252,346 @@ TABLESPACE pg_default;
 
 ALTER TABLE public.raw_owid_covid_data
     OWNER to postgres;	
+	
+
+--------
+-- Table: public.raw_country_population
+
+-- DROP TABLE public.raw_country_population;
+
+CREATE TABLE public.raw_country_population
+(
+    country_name character varying(63),
+    alpha_3_code character varying(3),
+    "1960" bigint,
+	"1961" bigint,
+	"1962" bigint,
+	"1963" bigint,
+	"1964" bigint,
+	"1965" bigint,
+	"1966" bigint,
+	"1967" bigint,
+	"1968" bigint,
+	"1969" bigint,
+	"1970" bigint,
+	"1971" bigint,
+	"1972" bigint,
+	"1973" bigint,
+	"1974" bigint,
+	"1975" bigint,
+	"1976" bigint,
+	"1977" bigint,
+	"1978" bigint,
+	"1979" bigint,
+	"1980" bigint,
+	"1981" bigint,
+	"1982" bigint,
+	"1983" bigint,
+	"1984" bigint,
+	"1985" bigint,
+	"1986" bigint,
+	"1987" bigint,
+	"1988" bigint,
+	"1989" bigint,
+	"1990" bigint,
+	"1991" bigint,
+	"1992" bigint,
+	"1993" bigint,
+	"1994" bigint,
+	"1995" bigint,
+	"1996" bigint,
+	"1997" bigint,
+	"1998" bigint,
+	"1999" bigint,
+	"2001" bigint,
+	"2002" bigint,
+	"2003" bigint,
+	"2004" bigint,
+	"2005" bigint,
+	"2006" bigint,
+	"2007" bigint,
+	"2008" bigint,
+	"2009" bigint,
+	"2010" bigint,
+	"2011" bigint,
+	"2012" bigint,
+	"2013" bigint,
+	"2014" bigint,
+	"2015" bigint,
+	"2016" bigint,
+	"2017" bigint,
+	"2018" bigint,
+	"2019" bigint
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_country_population
+    OWNER to postgres;	
+	
+	
+---------------
+-- Table: public.raw_country_population
+
+-- DROP TABLE public.raw_country_population;
+ 
+CREATE TABLE public.raw_country_population
+(
+    country_name character varying(63),
+    alpha_3_code character varying(3),
+    "1960" bigint,
+	"1961" bigint,
+	"1962" bigint,
+	"1963" bigint,
+	"1964" bigint,
+	"1965" bigint,
+	"1966" bigint,
+	"1967" bigint,
+	"1968" bigint,
+	"1969" bigint,
+	"1970" bigint,
+	"1971" bigint,
+	"1972" bigint,
+	"1973" bigint,
+	"1974" bigint,
+	"1975" bigint,
+	"1976" bigint,
+	"1977" bigint,
+	"1978" bigint,
+	"1979" bigint,
+	"1980" bigint,
+	"1981" bigint,
+	"1982" bigint,
+	"1983" bigint,
+	"1984" bigint,
+	"1985" bigint,
+	"1986" bigint,
+	"1987" bigint,
+	"1988" bigint,
+	"1989" bigint,
+	"1990" bigint,
+	"1991" bigint,
+	"1992" bigint,
+	"1993" bigint,
+	"1994" bigint,
+	"1995" bigint,
+	"1996" bigint,
+	"1997" bigint,
+	"1998" bigint,
+	"1999" bigint,
+	"2001" bigint,
+	"2002" bigint,
+	"2003" bigint,
+	"2004" bigint,
+	"2005" bigint,
+	"2006" bigint,
+	"2007" bigint,
+	"2008" bigint,
+	"2009" bigint,
+	"2010" bigint,
+	"2011" bigint,
+	"2012" bigint,
+	"2013" bigint,
+	"2014" bigint,
+	"2015" bigint,
+	"2016" bigint,
+	"2017" bigint,
+	"2018" bigint,
+	"2019" bigint
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_country_population
+    OWNER to postgres;
+	
+----------
+-- Table: public.raw_hospital_bed_per_1000_people
+
+-- DROP TABLE public.raw_hospital_bed_per_1000_people;
+
+CREATE TABLE public.raw_hospital_bed_per_1000_people
+(
+    "alpha_3_code" character varying(3),
+    "indicator" character varying(63),
+	"subject" character varying(63),
+	"measure" character varying(63),
+	"frequency" character varying(3),
+	"time" int,
+	"value" float
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_hospital_bed_per_1000_people
+    OWNER to postgres;	
+
+-----------
+-- Table: public.raw_tb_incidence
+
+-- DROP TABLE IF EXISTS public.raw_tb_incidence;
+
+CREATE TABLE public.raw_tb_incidence
+(
+    country_name character varying(64),
+    alpha_2_code character varying(2),
+	alpha_3_code character varying(3),
+	alpha_code_numeric character varying(20),
+	year character varying(20),
+	measure character varying(20),
+	unit character varying(20),
+	age_group character varying(20),
+	sex character varying(5),
+	risk_factor character varying(10),
+	best integer,
+	lo integer,
+	hi integer
+	
+   
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_tb_incidence
+    OWNER to postgres;	
+
+----------
+-- Table: public.raw_urban_population
+
+-- DROP TABLE IF EXISTS public.raw_urban_population;
+
+CREATE TABLE public.raw_urban_population
+(
+    country_name character varying(64),
+    alpha_3_code character varying(3),
+    km2 double precision,
+    mi2 double precision,
+    population bigint,
+    population_km2 double precision,
+    population_mi2 double precision,
+    date character varying(20)
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_urban_population
+    OWNER to postgres;
+
+---------
+-- Table: public.country_lockdown
+
+-- DROP TABLE public.country_lockdown;
+
+CREATE TABLE public.country_lockdown
+(
+    country_name character varying(64) NOT NULL,
+    start_date date,
+    end_date date,
+    PRIMARY KEY (country_name)
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.country_lockdown
+    OWNER to postgres;
+	
+--------
+-- Table: public.country_region
+
+-- DROP TABLE public.country_region;
+
+CREATE TABLE public.country_region
+(
+    country_name character varying(64) NOT NULL,
+    region character varying(50),
+    south_north character varying(20),
+    PRIMARY KEY (country_name)
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.country_region
+    OWNER to postgres;
+
+-----------
+-- Table: public.raw_country_female_population_percent
+
+-- DROP TABLE IF EXISTS public.raw_country_female_population_percent;
+
+CREATE TABLE public.raw_country_female_population_percent
+(
+    country_name character varying(63),
+    alpha_3_code character varying(3),
+    "1960" float,
+	"1961" float,
+	"1962" float,
+	"1963" float,
+	"1964" float,
+	"1965" float,
+	"1966" float,
+	"1967" float,
+	"1968" float,
+	"1969" float,
+	"1970" float,
+	"1971" float,
+	"1972" float,
+	"1973" float,
+	"1974" float,
+	"1975" float,
+	"1976" float,
+	"1977" float,
+	"1978" float,
+	"1979" float,
+	"1980" float,
+	"1981" float,
+	"1982" float,
+	"1983" float,
+	"1984" float,
+	"1985" float,
+	"1986" float,
+	"1987" float,
+	"1988" float,
+	"1989" float,
+	"1990" float,
+	"1991" float,
+	"1992" float,
+	"1993" float,
+	"1994" float,
+	"1995" float,
+	"1996" float,
+	"1997" float,
+	"1998" float,
+	"1999" float,
+	"2001" float,
+	"2002" float,
+	"2003" float,
+	"2004" float,
+	"2005" float,
+	"2006" float,
+	"2007" float,
+	"2008" float,
+	"2009" float,
+	"2010" float,
+	"2011" float,
+	"2012" float,
+	"2013" float,
+	"2014" float,
+	"2015" float,
+	"2016" float,
+	"2017" float,
+	"2018" float,
+	"2019" float
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.raw_country_female_population_percent
+    OWNER to postgres;

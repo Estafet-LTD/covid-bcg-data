@@ -1,4 +1,4 @@
-DROP TABLE public.raw_country_population;
+DROP TABLE IF EXISTS public.raw_country_population;
 
 CREATE TABLE public.raw_country_population
 (

@@ -1,4 +1,4 @@
-DROP TABLE public.raw_hospital_bed_per_1000_people;
+-- DROP TABLE IF EXISTS public.raw_hospital_bed_per_1000_people;
 
 CREATE TABLE public.raw_hospital_bed_per_1000_people
 (

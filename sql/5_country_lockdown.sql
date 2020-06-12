@@ -1,11 +1,10 @@
-DROP TABLE public.country_lockdown;
+DROP TABLE IF EXISTS public.country_lockdown;
 
 CREATE TABLE public.country_lockdown
 (
     country_name character varying(64) NOT NULL,
     start_date date,
-    end_date date,
-    PRIMARY KEY (country_name)
+    end_date date
 )
 WITH (
     OIDS = FALSE

@@ -1,4 +1,4 @@
-DROP TABLE public.country_region;
+DROP TABLE IF EXISTS public.country_region;
 
 CREATE TABLE public.country_region
 (

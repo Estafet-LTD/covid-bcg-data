@@ -1,4 +1,4 @@
-DROP TABLE raw_country_median_age;
+DROP TABLE IF EXISTS raw_country_median_age;
 
 CREATE TABLE public.raw_country_median_age
 (
